@@ -1,2 +1,2 @@
 # Learn-ML
-Project yang saya kerjakan dalam saat Machine Learning
+Yang saya kerjakan saat belajar Machine Learning
